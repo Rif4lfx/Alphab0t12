@@ -1,7 +1,7 @@
 {
     "self_mode": false,
 	"autobio": false,
-	"antihidetag": true,
+	"antihidetag": false,
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": true,
@@ -9,12 +9,14 @@
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfcོ",
-	"ownername": "ZeeoneOfcོ",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownerNumber": "6282157207578",
+	"ownerNumberr": "6282157207578",
+	"cr": "sᴇᴇʟᴇ ʙᴏᴛ ɪɢ ᴿᴵᶠ⁴ᴸᶠˣ",
+	"ownername": "ᴿᴵᶠ⁴ᴸᶠˣ",
+	"botname":"sᴇᴇʟᴇ ʙᴏᴛ",
 	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfcོ"
+	"donasi":"donasi.jpg",
+	"fake": " 「  sᴇᴇʟᴇ ʙᴏᴛ  」\nCreated By ᴿᴵᶠ⁴ᴸᶠˣ"
 }
